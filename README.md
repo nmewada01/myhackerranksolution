@@ -73,3 +73,38 @@
 ### <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true" target="_blank" alt="day-of-the-programmer">day-of-the-programmer</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999786-f0e7085d-4857-4a47-b354-e656b09be0ad.png">Solution</a>
 <hr/>
+
+
+### <a href="https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true" target="_blank" alt="bon-appetit">Bill Division</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999808-1815edde-b3c2-4d3a-8fe5-3e2a98f7e5dc.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true" target="_blank" alt="sock-merchant">Sales by match</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999816-1e0eb107-87a9-4ccb-a3f5-5b687b6481ce.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true" target="_blank" alt="drawing-book">drawing-book</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999834-01881810-edc3-442a-92d6-c8a0468fc515.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true" target="_blank" alt="counting-valleys">counting-valleys</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999851-dbba33e0-10be-4108-abcb-9f4ae99294e1.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true" target="_blank" alt="electronics-shop">electronics-shop</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999857-9bfd1af0-bc9f-4677-86a9-b329324b79c7.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true" target="_blank" alt="cats-and-a-mouse">cats-and-a-mouse</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999880-7cdcb806-1bef-4b6a-b038-8453ce711f5b.png">Solution</a>
+<hr/>
+
+
+### <a href="https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true" target="_blank" alt="picking-numbers">picking-numbers</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999890-fd2693e3-a3cb-4c17-a0a8-5003b956537e.png">Solution</a>
+<hr/>
+
+
+### <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=tru" target="_blank" alt="the_hurdle_race">The Hurdle Race</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999897-fd1edf90-f0b8-40dd-af5c-938cd300c685.png">Solution</a>
+<hr/>
