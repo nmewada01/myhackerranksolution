@@ -105,6 +105,18 @@
 <hr/>
 
 
-### <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=tru" target="_blank" alt="the_hurdle_race">The Hurdle Race</a><br/>
+### <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true" target="_blank" alt="the_hurdle_race">The Hurdle Race</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999897-fd1edf90-f0b8-40dd-af5c-938cd300c685.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true" target="_blank" alt="designer-pdf-viewer">designer-pdf-viewer</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999912-10be2358-c7fe-4ff5-9671-5c3f23fb79a2.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true" target="_blank" alt="utopian">Utopian Tree</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999948-b0304af6-0ed2-468c-8296-2eb7f771b828.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true" target="_blank" alt="angry_professor">Angry Professor</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999959-a210ddca-5137-4e74-a94c-ed86b0e572a7.png">Solution</a>
 <hr/>
