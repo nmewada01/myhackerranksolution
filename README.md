@@ -120,3 +120,20 @@
 ### <a href="https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true" target="_blank" alt="angry_professor">Angry Professor</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999959-a210ddca-5137-4e74-a94c-ed86b0e572a7.png">Solution</a>
 <hr/>
+
+
+### <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true" target="_blank" alt="abeautiful-days-at-the-movies">beautiful-days-at-the-movies</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000017-7804b5a2-c6bd-47db-864d-89cf2384202f.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true" target="_blank" alt="viral adversiting">Viral advertising</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000023-105588ba-50df-4a27-8dd5-547c8286e4b7.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true" target="_blank" alt="sequence equation">sequence equation</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000033-7a4c2c5c-00c6-4458-b32e-58e1638f97d0.png">Solution</a>
+<hr/>
+
+### <a href="https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true" target="_blank" alt="find digit">Find Digit</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000050-348dcc1b-a1c9-42a1-bfe5-df801245d8d7.png">Solution</a>
+<hr/>
