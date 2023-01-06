@@ -66,4 +66,10 @@
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999767-8f33dfa1-be49-459f-b378-8cf37aee512d.png">Solution</a>
 <hr/>
 
+### <a href="https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true" target="_blank" alt="migratory-birds">migratory-birds</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999773-357c1d64-9da0-4002-bd90-b20f3c96a861.png">Solution</a>
+<hr/>
 
+### <a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true" target="_blank" alt="day-of-the-programmer">day-of-the-programmer</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999786-f0e7085d-4857-4a47-b354-e656b09be0ad.png">Solution</a>
+<hr/>
