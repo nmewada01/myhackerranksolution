@@ -60,3 +60,10 @@
 ### <a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true" target="_blank" alt="the-birthday-bar">the-birthday-bar</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210960319-bf2fe8b0-d106-418f-958d-904f891f4c3a.png">Solution</a>
 <hr/>
+
+
+### <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true" target="_blank" alt="divisible-sum-pairs">divisible-sum-pairs</a><br/>
+<span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/210999767-8f33dfa1-be49-459f-b378-8cf37aee512d.png">Solution</a>
+<hr/>
+
+
