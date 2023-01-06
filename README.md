@@ -142,9 +142,11 @@
 ### <a href="https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true" target="_blank" alt="cut_the_stick">Cut The Stick</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000068-0595824f-be0c-4663-b98b-fe07d50b7b98.png">Solution</a>
 <hr/>
+
 ### <a href="https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true" target="_blank" alt="repeated string">Repeated String</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000069-16b9663a-a1b1-4a62-ac95-0f8709cec227.png">Solution</a>
 <hr/>
+
 ### <a href="https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true" target="_blank" alt="equality-in-a-array">equality-in-a-array</a><br/>
 <span>Click here : </span><a href="https://user-images.githubusercontent.com/101567054/211000073-7875416d-1742-4f9e-8464-a431bdad5050.png">Solution</a>
 <hr/>
